@@ -35,9 +35,9 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <main.dir>${basedir}/../..</main.dir>
-        <aws.sdk.version>1.11.323</aws.sdk.version>
+        <aws.sdk.version>1.11.1034</aws.sdk.version>
         <pubsub.client.version>1.83.0</pubsub.client.version>
-        <google.common.protos.version>1.16.0</google.common.protos.version>
+        <google.common.protos.version>2.7.1</google.common.protos.version>
     </properties>
 
     <dependencies>
