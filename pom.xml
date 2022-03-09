@@ -30,7 +30,7 @@
     <properties>
         <main.dir>${basedir}</main.dir>
         <spring-boot.version>2.1.3.RELEASE</spring-boot.version>
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.2.19.RELEASE</spring.version>
         <spring-security.version>5.1.4.RELEASE</spring-security.version>
         <spring-data-redis.version>2.1.5.RELEASE</spring-data-redis.version>
         <jedis.version>2.9.0</jedis.version>
@@ -41,7 +41,7 @@
         <logback.version>1.2.3</logback.version>
         <mockito.version>1.9.5</mockito.version>
         <rat.version>0.10</rat.version>
-        <cassandra.version>3.6.0</cassandra.version>
+        <cassandra.version>4.0.0</cassandra.version>
         <cassandra-unit.version>3.5.0.1</cassandra-unit.version>
         <takari-cpsuite.version>1.2.7</takari-cpsuite.version>
         <guava.version>21.0</guava.version>
@@ -280,7 +280,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
