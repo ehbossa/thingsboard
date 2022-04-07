@@ -17,7 +17,7 @@
     "kafkajs": "^1.11.0",
     "long": "^4.0.0",
     "uuid-parse": "^1.0.0",
-    "winston": "^3.0.0",
+    "winston": "^3.3.0",
     "winston-daily-rotate-file": "^3.2.1"
   },
   "engines": {
