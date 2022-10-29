@@ -61,7 +61,7 @@
         <velocity.version>1.7</velocity.version>
         <velocity-tools.version>2.0</velocity-tools.version>
         <mail.version>1.4.3</mail.version>
-        <curator.version>4.2.0</curator.version>
+        <curator.version>5.4.0</curator.version>
         <zookeeper.version>3.5.5</zookeeper.version>
         <protobuf.version>3.6.1</protobuf.version>
         <grpc.version>1.22.1</grpc.version>
@@ -280,7 +280,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
