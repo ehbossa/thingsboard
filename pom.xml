@@ -93,7 +93,7 @@
         <antlr.version>2.7.7</antlr.version>
         <snakeyaml.version>1.23</snakeyaml.version>
         <passay.version>1.5.0</passay.version>
-        <ua-parser.version>1.4.3</ua-parser.version>
+        <ua-parser.version>1.5.4</ua-parser.version>
     </properties>
 
     <modules>
@@ -280,7 +280,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
