@@ -12,13 +12,13 @@
     "start-prod": "NODE_ENV=production nodemon server.js"
   },
   "dependencies": {
-    "config": "^3.2.2",
+    "config": "^3.3.9",
     "js-yaml": "^3.12.0",
     "kafkajs": "^1.11.0",
     "long": "^4.0.0",
     "uuid-parse": "^1.0.0",
-    "winston": "^3.0.0",
-    "winston-daily-rotate-file": "^3.2.1"
+    "winston": "^3.3.4",
+    "winston-daily-rotate-file": "^4.0.0"
   },
   "engines": {
     "node": ">=8.0.0 <11.0.0"
