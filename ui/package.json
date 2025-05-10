@@ -68,7 +68,7 @@
     "leaflet-providers": "^1.8.0",
     "leaflet.markercluster": "^1.4.1",
     "material-steppers": "git://github.com/thingsboard/material-steppers.git#master",
-    "material-ui": "^0.16.1",
+    "material-ui": "^0.18.1",
     "material-ui-number-input": "^5.0.16",
     "md-color-picker": "0.2.6",
     "md-date-range-picker": "^0.8.4",
